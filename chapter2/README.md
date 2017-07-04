@@ -10,6 +10,8 @@ This repo is for my article ["A Mocha tutorial of Examples"](http://www.ruanyife
 
 ![](http://www.ruanyifeng.com/blogimg/asset/2015/bg2015120301.png)
 
+
+[![Coverage Status](https://coveralls.io/repos/github/mochajs/mocha/badge.svg?branch=master)](https://coveralls.io/github/mochajs/mocha?branch=master)
 ## How to use
 
 First, clone the repo.
