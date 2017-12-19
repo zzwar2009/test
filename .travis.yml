@@ -5,3 +5,6 @@ script:
   - npm install
   - chmod 755 ./test.sh
   - ./test.sh
+cache:
+  directories:
+    - "node_modules"
