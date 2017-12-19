@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/zzwar2009/test#readme",
   "dependencies": {
-    "jquery": "^3.2.1"
+    "jquery": "^3.2.1",
+    "webpack": "^3.10.0"
   }
 }
